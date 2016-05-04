@@ -28,3 +28,4 @@ clock = pygame.time.Clock()
 # Starting position of the rectangle
 rect_x = 50
 "bouncing_rectangle.py" 83L, 1815C     
+"
